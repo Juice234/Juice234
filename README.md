@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 
-🎓 Graduate Student from Atlantic Institute of Technology (ATU)  
+🎓 Graduate Student from Atlantic Technological University (ATU)  
 💻 Passionate about software development and emerging technologies  
 🌱 Constantly learning and exploring new tools and frameworks  
 📫 How to reach me: promaciek.2001@gmail.com
